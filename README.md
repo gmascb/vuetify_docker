@@ -1,4 +1,4 @@
-# planningpoker_vue
+# VueJs + Docker
 
 ## Project setup
 
